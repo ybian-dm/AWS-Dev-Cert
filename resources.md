@@ -6,9 +6,11 @@
 
 # Youtube Resources
 
+### 30 Real Questions
+
 [30 Question and Answer in detail](https://www.youtube.com/watch?v=yYNFRO0V5aY)
 
-Real Exam Question with answer
+### Real Exam Question with answer
 [Real Exam Question - Part 1](https://www.youtube.com/watch?v=B_tQNqandAw)
 
 [Real Exam Question - Part 2](https://www.youtube.com/watch?v=G8FcoEszUeI)
@@ -47,6 +49,13 @@ Real Exam Question with answer
 
 ----
 
+### Pass the exam
+
 [Pass the exam -2020](https://www.youtube.com/watch?v=RrKRN9zRBWs)
 10 hours detail introduce, but out of date
 
+----
+
+# Note
+
+[Note by Arkalim](https://arkalim.notion.site/AWS-Developer-Associate-DVA-C02-aa44174fd7634a788368a85ec533e5fc)
